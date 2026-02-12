@@ -322,6 +322,37 @@ class PostScrapeRunner:
             from modules.data_storage import JSONStorage
             JSONStorage(self.config).save_seen(seen)
 
+    def save_partial(self, docs, place_id, place_name=None, seen=None):
+        """Sauvegarde les reviews même si le scraping est interrompu"""
+        if not docs or not place_name:
+            return
+
+        # Créer le dossier si nécessaire
+        folder = Path("data") / place_name
+        folder.mkdir(parents=True, exist_ok=True)
+
+        # Nom du fichier JSON
+        json_file = folder / f"{place_name}.json"
+
+        # Backup automatique si le fichier existe
+        if json_file.exists():
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            backup = json_file.with_suffix(f".backup.{timestamp}.json")
+            shutil.copy2(json_file, backup)
+            print(f"[INFO] Backup existant créé : {backup}")
+
+        # Écriture JSON
+        with json_file.open("w", encoding="utf-8") as f:
+            json.dump(list(docs.values()), f, ensure_ascii=False, indent=2)
+
+        # Mettre à jour le set "seen" si nécessaire
+        if seen is not None:
+            seen.update(docs.keys())
+            seen_file = folder / f"{place_name}.ids"
+            seen_file.write_text("\n".join(seen), encoding="utf-8")
+
+        print(f"[INFO] {len(docs)} reviews sauvegardées partiellement dans {json_file}")
+
     def close(self) -> None:
         for task in self._tasks:
             try:

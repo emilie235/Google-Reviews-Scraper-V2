@@ -1588,13 +1588,19 @@ class GoogleReviewsScraper:
 
             # Post-scrape pipeline: process once, write to all targets
             reviews = self.review_db.get_reviews(place_id) if place_id else []
+
             if reviews:
-                legacy_docs = {
-                    r["review_id"]: self._db_review_to_legacy(r) for r in reviews
-                }
+                legacy_docs = {r["review_id"]: self._db_review_to_legacy(r) for r in reviews}
                 runner = PostScrapeRunner(self.config)
+
                 try:
                     runner.run(legacy_docs, place_id, seen=seen)
+
+                except KeyboardInterrupt:
+                    # Capture Ctrl+C et sauvegarde ce qui a été collecté
+                    print("\n[INFO] Scraping interrompu par l'utilisateur. Sauvegarde des reviews partielles...")
+                    runner.save_partial(legacy_docs, place_id, seen=seen)
+
                 finally:
                     runner.close()
 
