@@ -186,11 +186,6 @@ class GoogleReviewsScraper:
             "author": db_review.get("author", ""),
             "rating": db_review.get("rating", 0),
             "description": description,
-            "likes": db_review.get("likes", 0),
-            "user_images": images if isinstance(images, list) else [],
-            "author_profile_url": db_review.get("profile_url", ""),
-            "profile_picture": db_review.get("profile_picture", ""),
-            "owner_responses": owner if isinstance(owner, dict) else {},
             "created_date": db_review.get("created_date", ""),
             "review_date": db_review.get("review_date", ""),
             "last_modified_date": db_review.get("last_modified", ""),
@@ -1625,33 +1620,32 @@ class GoogleReviewsScraper:
 
         finally:
 
-            # Attempt to save partial results on interruption or error so
-            # user doesn't lose already scraped reviews.
+            # Attempt to save partial results on interruption or error
             try:
                 if 'docs' in locals() and docs:
-                    # Save to MongoDB if enabled
+
                     if self.use_mongodb and self.mongodb:
                         try:
-                            log.info("Saving partial reviews to MongoDB (on interrupt/error)...")
-                            self.mongodb.save_reviews(docs)
+                            log.info("Emergency save to MongoDB...")
+                            self.mongodb.write_reviews(docs)
                         except Exception as e:
-                            log.warning(f"Failed to save partial reviews to MongoDB: {e}")
+                            log.warning(f"MongoDB emergency save failed: {e}")
 
-                    # Backup to JSON if enabled
-                    if self.backup_to_json and hasattr(self, 'json_storage') and self.json_storage:
+                    if self.backup_to_json and hasattr(self, "json_storage") and self.json_storage:
                         try:
-                            log.info("Backing up partial reviews to JSON (on interrupt/error)...")
-                            self.json_storage.save_json_docs(docs)
-                            if 'seen' in locals():
-                                try:
-                                    self.json_storage.save_seen(seen)
-                                except Exception as e:
-                                    log.warning(f"Failed to save seen IDs to JSON: {e}")
-                        except Exception as e:
-                            log.warning(f"Failed to backup partial reviews to JSON: {e}")
-            except Exception as e:
-                log.debug(f"Error while attempting partial save: {e}")
+                            log.info("Emergency JSON backup...")
+                            self.json_storage.write_json_docs(docs)
 
+                            if 'seen' in locals():
+                                self.json_storage.save_seen(seen)
+
+                        except Exception as e:
+                            log.warning(f"JSON emergency save failed: {e}")
+
+            except Exception as e:
+                log.debug(f"Unexpected error during emergency save: {e}")
+
+            # Always close driver properly
             if driver is not None:
                 try:
                     driver.quit()

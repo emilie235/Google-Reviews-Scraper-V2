@@ -20,5 +20,5 @@ replace_urls: false
 sort_by: relevance
 stop_on_match: false
 store_local_paths: true
-url: https://www.google.com/maps/place/?q=place_id:ChIJOUI0wipt5kcR8PGfUPvkm4g
+url: https://www.google.com/maps/place/?q=place_id:ChIJOUI0wipt5kcR8PGfUPvkm4g&hl=en&gl=US
 use_mongodb: false
