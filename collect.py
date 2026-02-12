@@ -45,9 +45,9 @@ def save_json_partial(slug, docs):
 
     json_file = folder / f"{slug}.json"
 
-    # Si le fichier existe déjà, on le renomme temporairement pour backup
+    # Si le fichier existe déjà, on l'écrase
     if json_file.exists():
-        backup_file = folder / f"{slug}.json.bak"
+        backup_file = folder / f"{slug}.json"
         shutil.move(json_file, backup_file)
         print(f"[INFO] Backup simple créé : {backup_file}")
 

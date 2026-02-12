@@ -1,0 +1,940 @@
+[
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbDhhTklBEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Melchior du Boullay",
+    "rating": 5.0,
+    "description": {
+      "en": "One of the best time I had in a restaurant since a long time. Everything was perfect. Staff welcoming, nice, and providing a great service.\nFood astonishing. Every meal was beautiful and tasty.\nAtmosphere, quite with a hint of fun and good vibe.\n\nLooking forward to going back."
+    },
+    "created_date": "2026-02-12T14:43:01.988621+00:00",
+    "review_date": "2024-02-13T14:43:01+00:00",
+    "last_modified_date": "2026-02-12T14:43:01.988621+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJajkyWmdBRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "WANG Fanfan",
+    "rating": 5.0,
+    "description": {
+      "en": "Have been 3 times and food is just amazing! No comments!"
+    },
+    "created_date": "2026-02-12T14:43:01.652423+00:00",
+    "review_date": "2025-04-18T14:43:01+00:00",
+    "last_modified_date": "2026-02-12T14:43:01.652423+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUbTZiM1d3EAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Yasu",
+    "rating": 5.0,
+    "description": {
+      "en": "The combination of texture, sauce, and ingredients were excellent with respect to the seasonal harvest. Especially, morels mushrooms.\nThough the time between dishes were slightly longer than expected, it allowed for excellent conversation and finished within allocated time (I always allow 1-1.5hrs for this type of restaurant)."
+    },
+    "created_date": "2026-02-12T14:43:01.281930+00:00",
+    "review_date": "2025-02-12T14:43:01+00:00",
+    "last_modified_date": "2026-02-12T14:43:01.281930+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScEo3dkZREAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Gary Waterston",
+    "rating": 5.0,
+    "description": {
+      "en": "Best new restaurant in Paris!\nWe discovered this new eatery by chance - glancing at the menu and my (vegetarian) friend finding a dish he really wanted to go in and try. What a discovery! Food is wonderful! No better than that. Taste, presentation and concept - perfect. Price is reasonable for the quality and the service was so so good - especially for Paris - friendly and knowledgeable. Well done to everyone involved. This is sure to be topping lists very soon. I just hope I can get a table when I return to Paris!"
+    },
+    "created_date": "2026-02-12T14:43:00.927669+00:00",
+    "review_date": "2024-02-13T14:43:00+00:00",
+    "last_modified_date": "2026-02-12T14:43:00.927669+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb1BqLWd3RRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Olga Makarova",
+    "rating": 5.0,
+    "description": {
+      "en": "An amazing discovery! Delicious food with excellent presentation.\nQuite affordable at lunch time if you’re on budget."
+    },
+    "created_date": "2026-02-12T14:43:00.519395+00:00",
+    "review_date": "2024-02-13T14:43:00+00:00",
+    "last_modified_date": "2026-02-12T14:43:00.519395+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIMm9pWEFnEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "A K",
+    "rating": 5.0,
+    "description": {
+      "en": "Went there right when they opened for lunch. We were able to get a seat and within 15 minutes, the place was practically full.\nLocated in a small street. Cute decor and the lunch set was oh so delicious. The delicate and beautiful presentation was also a delight.\nDefinitely would recommend this place to others."
+    },
+    "created_date": "2026-02-12T14:43:00.194575+00:00",
+    "review_date": "2025-02-12T14:43:00+00:00",
+    "last_modified_date": "2026-02-12T14:43:00.194575+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMLWZtRjl3RRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Aron P",
+    "rating": 5.0,
+    "description": {
+      "en": "One of the best meals we had on our recent visit to Paris. The food was exceptional, beautifully presented, delicious. Service was impeccable. The only negative comment is that we were sat in the upstairs room, which lacked the buzz of the one downstairs. But overall, highly recommended, would go back in a heartbeat."
+    },
+    "created_date": "2026-02-12T14:42:59.834528+00:00",
+    "review_date": "2025-02-12T14:42:59+00:00",
+    "last_modified_date": "2026-02-12T14:42:59.834528+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUNzR1MXRRRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Kayode Thomas",
+    "rating": 5.0,
+    "description": {
+      "en": "Absolutely fantastic! Best lunch in Paris"
+    },
+    "created_date": "2026-02-12T14:42:57.797094+00:00",
+    "review_date": "2025-02-12T14:42:57+00:00",
+    "last_modified_date": "2026-02-12T14:42:57.797094+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNybUktZU5BEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Marius Mare",
+    "rating": 5.0,
+    "description": {
+      "en": "This place is absolutely a gem! Our humble comliments to the talented chef and the kitchen staff, to the attentive and receptive service and nevertheless to the ownership for creating a tranquil atmosphere environment where everything seems to be in perfect harmony for such degree of culinary art to be created, infused and shared. 7 stars plus for everything! Absolutely delightful and enchanting dishes!  The best dining experience we've had in 2 weeks while in Paris."
+    },
+    "created_date": "2026-02-12T14:42:57.429338+00:00",
+    "review_date": "2025-02-12T14:42:57+00:00",
+    "last_modified_date": "2026-02-12T14:42:57.429338+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwc3NpTWVBEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Luis Cruz",
+    "rating": 5.0,
+    "description": {
+      "en": "Very good service and the food is simply amazing at a decent price"
+    },
+    "created_date": "2026-02-12T14:42:57.040032+00:00",
+    "review_date": "2024-02-13T14:42:56+00:00",
+    "last_modified_date": "2026-02-12T14:42:57.040032+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZy1YejZ3RRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Lillian Hsu",
+    "rating": 5.0,
+    "description": {
+      "en": "We had an extraordinarily enjoyable lunch here on Easter Day. I happened to get the seat facing the window into the kitchen, and I really enjoyed seeing the diverse team at work together. They seemed to communicate really well with each other, and they seemed to take pleasure in seeing the diners enjoying their food. Every dish was presented beautifully, and service was warm and inviting. My favorite dish was the lamb — gorgeous to the eye and the flavors bold and delicious. My daughter and I also loved the pistachio soufflé. Definitely worth the wait. Best meal I have had all year!"
+    },
+    "created_date": "2026-02-12T14:42:56.615757+00:00",
+    "review_date": "2025-02-12T14:42:56+00:00",
+    "last_modified_date": "2026-02-12T14:42:56.615757+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbnFDeTNRRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Thomas Gachot",
+    "rating": 5.0,
+    "description": {
+      "en": "Miam! Amazing restaurant, great food with superb variety (actually a little difficult to choose, hence why I took 2 starter haha)\n\nHighly recommend :)"
+    },
+    "created_date": "2026-02-12T14:42:56.227196+00:00",
+    "review_date": "2024-02-13T14:42:56+00:00",
+    "last_modified_date": "2026-02-12T14:42:56.227196+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncHA3SnBBRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "emma birch",
+    "rating": 1.0,
+    "description": {
+      "en": "They had a very limited menu, which is fine, expect three dishes we’re not available (on a Sat night). One is ok, but not three! The red wine was very cold. The lights were flicking on and off for a prolonged period. We regrettably left before the food arrived. Would not return."
+    },
+    "created_date": "2026-02-12T14:42:55.792311+00:00",
+    "review_date": "2025-03-19T14:42:55+00:00",
+    "last_modified_date": "2026-02-12T14:42:55.792311+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScFpXSmlhbkF0WWtScldVdGxkbGhMYlhaZmFVRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Mariyem Sqalli",
+    "rating": 5.0,
+    "description": {
+      "en": "Masterpiece! As everything chef Chikuda does! Bravo"
+    },
+    "created_date": "2026-02-12T14:42:55.397081+00:00",
+    "review_date": "2025-07-17T14:42:55+00:00",
+    "last_modified_date": "2026-02-12T14:42:55.397081+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnc3ZLdk93EAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Dan Andries",
+    "rating": 5.0,
+    "description": {
+      "en": "The food was very good! Interesting and pleasing taste combinations, enjoyed every dish, next time I'll take the desert too. The only downside is that the second floor is a bit crammed and it can get quite hot up there, however this didn't prevent me from enjoying the meal and the atmosphere"
+    },
+    "created_date": "2026-02-12T14:42:54.918836+00:00",
+    "review_date": "2025-03-19T14:42:54+00:00",
+    "last_modified_date": "2026-02-12T14:42:54.918836+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSNXU2cFBREAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Gwen Porter",
+    "rating": 5.0,
+    "description": {
+      "en": "The food is prepared with insisting and care at this newly opened restaurant. The chef used some ingredient my Japanese friend recognized, but I had never seen before.  It was part of a ginger shoot, and it added a very pleasant zing to my vegetarian dish. It's always fun to discover something new.. even if I can't remember the name of it!"
+    },
+    "created_date": "2026-02-12T14:42:54.520623+00:00",
+    "review_date": "2024-02-13T14:42:54+00:00",
+    "last_modified_date": "2026-02-12T14:42:54.520623+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvemMtajJRRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Marta Red",
+    "rating": 5.0,
+    "description": {
+      "en": "Absolutely incredible food! Bursting with flavor, beautifully crafted, fresh, and wonderfully aromatic. This place is a must-visit! The langoustine ravioli completely stole my heart — an unforgettable harmony of tastes."
+    },
+    "created_date": "2026-02-12T14:42:54.107840+00:00",
+    "review_date": "2025-05-18T14:42:54+00:00",
+    "last_modified_date": "2026-02-12T14:42:54.107840+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNVlYZG9Uekl0YjNaa01GRlBXVFo2WjB0Mk5WRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Jason Boone",
+    "rating": 5.0,
+    "description": {
+      "en": "We went to alot of michelins during our stay and this was next to where we stayed... well worth it... the dishes were up their with most of the michelin we tried! I'm telling you definitely fit this in if you can! It was up their with septime/david toutain/ alléno coming from the plates! Just missing the atmosphere or it probably would be atleast a 1 star! The service was outstanding! We went when it was 102! And they were kicking butt in the heat! As it has no ac! 10/10 service and food!"
+    },
+    "created_date": "2026-02-12T14:42:52.148639+00:00",
+    "review_date": "2025-07-17T14:42:52+00:00",
+    "last_modified_date": "2026-02-12T14:42:52.148639+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNVdUWXpWblowUldoWVpsUXRabUZLTFRBMVFWRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "simon Nicholls",
+    "rating": 5.0,
+    "description": {
+      "en": "Believe the reviews, the food here is insanely good, I took a vegetarian option and it was the best I've ever had by far. BY FAR! Service super nice and decor is also super nicely done. Cannot reccomend enough I'll be coming straight back."
+    },
+    "created_date": "2026-02-12T14:42:51.808132+00:00",
+    "review_date": "2025-07-17T14:42:51+00:00",
+    "last_modified_date": "2026-02-12T14:42:51.808132+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvd0w3RFlnEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "April Yap",
+    "rating": 5.0,
+    "description": {
+      "en": "Our first dinner in Paris. We were wandering around the area, peeking at menus. We saw this restaurant - knew nothing about it - but it looked very cozy and the menu looked quite interesting and reasonably priced. In we went - perfect choice.\n\nThe staff was very welcoming even though we didn't have a reservation and now realize that it's generally a good idea to do so. I had the duck breast, my partner the fish. Both were super good in a very-well-put-together kind of way. Versus an experimental innovative kind of way.\n\nThis set the bar high for Parisian meals and, in fact, in a week stay in the city, we had only one other meal that was at this level of good.\n\nThere are many restaurants in Paris obviously, so it's hard to say you have to seek this out if you're coming from a couple of arrondissements away. But if you're in this area, then yes, for sure give it a try."
+    },
+    "created_date": "2026-02-12T14:42:51.262903+00:00",
+    "review_date": "2025-05-18T14:42:51+00:00",
+    "last_modified_date": "2026-02-12T14:42:51.262903+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VNbjV1SmFGLVpyRktREAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "bruce seideman",
+    "rating": 5.0,
+    "description": {
+      "en": "Great spot on the left bank.  Open kitchen turning out delicious well prepared dishes.  Friendly staff. Don’t eat upstairs.  Tight and not the place to be.\nThe chef is Japanese and has a big following so reserve.  Dishes are complex but work so well!!"
+    },
+    "created_date": "2026-02-12T14:42:50.726442+00:00",
+    "review_date": "2025-06-17T14:42:50+00:00",
+    "last_modified_date": "2026-02-12T14:42:50.726442+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twS1lYQktUazFaTldSeWRHUlJOMk5OTURBeFYxRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Sophie Zhang",
+    "rating": 5.0,
+    "description": {
+      "en": "Oh my god ! This is amazing ! So talented the chef !🧑‍🍳"
+    },
+    "created_date": "2026-02-12T14:42:50.170869+00:00",
+    "review_date": "2025-09-15T14:42:49+00:00",
+    "last_modified_date": "2026-02-12T14:42:50.170869+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqMEx2bXV3RRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Patrick H",
+    "rating": 5.0,
+    "description": {
+      "en": "Very nice and cozy place. Amazingly crafted plates and very good combination of the different ingredients of the different plates. We will visit again."
+    },
+    "created_date": "2026-02-12T14:42:49.577241+00:00",
+    "review_date": "2025-02-12T14:42:49+00:00",
+    "last_modified_date": "2026-02-12T14:42:49.577241+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMGRyZ0t3EAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Elizabeth Freeman",
+    "rating": 5.0,
+    "description": {
+      "en": "Went for dinner with no reservation. Food and service were so good! Highly recommend if you are in Saint Germain!"
+    },
+    "created_date": "2026-02-12T14:42:49.060141+00:00",
+    "review_date": "2025-04-18T14:42:48+00:00",
+    "last_modified_date": "2026-02-12T14:42:49.060141+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiaU9YdlNBEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Laura Cusco",
+    "rating": 5.0,
+    "description": {
+      "en": "10/10. Excellent bistronomie concept. A great option outside of the touristic area in St Germain. Lunch-time menu at 32€"
+    },
+    "created_date": "2026-02-12T14:42:48.645395+00:00",
+    "review_date": "2025-02-12T14:42:48+00:00",
+    "last_modified_date": "2026-02-12T14:42:48.645395+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5QlJGOWpRMGQ0UVdNMWJGbGhWRWh3VXpkMVkxRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Duy Andrew Nguyen",
+    "rating": 5.0,
+    "description": {
+      "en": "I had a wonderful experience with the family. My older son was blown away by the presentation, I really enjoyed the taste of all the dishes."
+    },
+    "created_date": "2026-02-12T14:42:48.266928+00:00",
+    "review_date": "2026-01-13T14:42:48+00:00",
+    "last_modified_date": "2026-02-12T14:42:48.266928+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURueWV2M1NnEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Pi Dan",
+    "rating": 2.0,
+    "description": {
+      "en": "For a restaurant of Japanese chef and Asian kitchen staff, the service was disappointing towards non-Japanese Asian tourists. We were sitting between two white couples and it did not take us long to notice that every piece of service arrived later than the neighbors. The dessert menu from the lady took verbal reminder to finally arrive while the couples next to us got the menu, got the order picked up and got to finish their dessert seamlessly. They also got one starter mistakenly and we took that without calling it out.\n\nThe place is very crowed that every bit of small talk goes into the next tables. The tables are so close to each other that sitting at the long couch means no toilet the entire dinner.\n\nThe highlight of the restaurant might be its obvious Japanese influence in flavoring and ingredients. But given its majority clientele of tourist and near half from Asia, the menu may have come across as missing the authenticity of French cuisine and its spirited authenticity.\n\nOverall we were disappointed after we booked the place a month in advance due to the overall expedience, its service and lack of character."
+    },
+    "created_date": "2026-02-12T14:42:47.958305+00:00",
+    "review_date": "2025-02-12T14:42:47+00:00",
+    "last_modified_date": "2026-02-12T14:42:47.958305+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3MWJLMFhBEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Hu",
+    "rating": 3.0,
+    "description": {
+      "en": "After visiting here four times, I don’t think I’ll come back. Last year, I visited twice with my friends; the food was tasty, and the service was excellent. However, this year, the quality and service have definitely declined. There are plenty of similar restaurants in town, and now I feel like nothing here stands out 😅"
+    },
+    "created_date": "2026-02-12T14:42:47.587497+00:00",
+    "review_date": "2025-02-12T14:42:47+00:00",
+    "last_modified_date": "2026-02-12T14:42:47.587497+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbzVfWmJ3EAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Olga Pimenova",
+    "rating": 5.0,
+    "description": {
+      "en": "It is an excellent restaurant with gastronomic cuisine. The taste of the food is balanced and excellent, the dishes look like works of art. You want to try them and keep them on your tongue endlessly. The fish melted in your mouth, the meat was fantastic, the shellfish  a new word in cooking. Excellent wine list, very friendly waiters. Bravo to the chef and the entire restaurant team!"
+    },
+    "created_date": "2026-02-12T10:41:51.025606+00:00",
+    "review_date": "2025-02-12T10:41:50+00:00",
+    "last_modified_date": "2026-02-12T10:41:51.025606+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwcDdtNEVnEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Phoebe Lin",
+    "rating": 5.0,
+    "description": {
+      "en": "Went twice in the past three weeks because the food was that good. Beautiful and colorful presentation. The lunch set menu is a great value for the quality of food you’re getting. Small downside is the tables are very close to each other and so it’s almost like you’re dining with your neighboring tables 😂."
+    },
+    "created_date": "2026-02-12T10:41:50.581837+00:00",
+    "review_date": "2024-02-13T10:41:50+00:00",
+    "last_modified_date": "2026-02-12T10:41:50.581837+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaZzRQRjd3RRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Haydar Celik",
+    "rating": 5.0,
+    "description": {
+      "en": "We couldn't find a table at Narru, but Bailotte is it's sister restaurant and we wanted to try. Absolutely great experience of bistronomie.\nScallops were amazing, harmony of flavours. Octopus was really good and refreshing.\nDresserts were refreshing. Loved everything. As good as Narro."
+    },
+    "created_date": "2026-02-12T10:41:50.026962+00:00",
+    "review_date": "2024-02-13T10:41:49+00:00",
+    "last_modified_date": "2026-02-12T10:41:50.026962+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0bk5DeUVREAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Angela Muhlach",
+    "rating": 4.0,
+    "description": {
+      "en": "I had the foie gras for starter, the amberjack and the lamb. We were a bit disappointed because everything was cold. I think they should tell the customer that everything is cold. Only the amberjack was good. For the mains, I got the fish of the day but was not that impressed. I think NARRO , the sister restaurant is much better. Check that out. I paid around 90 euros for 2 starters and 1 main and 2 drinks. Other than that, service was really good —just prefer narro more"
+    },
+    "created_date": "2026-02-12T10:41:49.457379+00:00",
+    "review_date": "2024-02-13T10:41:49+00:00",
+    "last_modified_date": "2026-02-12T10:41:49.457379+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWMk5mM1B3EAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Hiroshi Nakama",
+    "rating": 5.0,
+    "description": {
+      "en": "One of the best French restaurant in Paris ! The dishes are just awesome. Have a look at the photos, the mixture of various flavours is so iconique that cannot be experienced in other restaurants. Also, the service staff is fantastic and professional !"
+    },
+    "created_date": "2026-02-12T10:41:48.897549+00:00",
+    "review_date": "2024-02-13T10:41:48+00:00",
+    "last_modified_date": "2026-02-12T10:41:48.897549+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWdjZhazBBRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Malar Rajan",
+    "rating": 5.0,
+    "description": {
+      "en": "Amazing food! Great service. I couldn't ask for anything else. Each dish was a work of art, presentation on point and a burst of flavours with each mouthful. I was too full by the time i finished my appetiser and main course but i had to end the wonderful meal with dessert.\n\nMy recommendation would be the scallops for appetiser and chicken for main course ! Scrumptious. Will be back to try their other dishes 💕"
+    },
+    "created_date": "2026-02-12T10:41:48.393649+00:00",
+    "review_date": "2024-02-13T10:41:48+00:00",
+    "last_modified_date": "2026-02-12T10:41:48.393649+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdHJfeUVnEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Kornchom Mayer",
+    "rating": 5.0,
+    "description": {
+      "en": "I visited twice. Everything went very well. The chef was very generous with food. I got very big portion (2 salmon filets) for my main course. I didn’t have a chance to try the dessert because I was too full."
+    },
+    "created_date": "2026-02-12T10:41:47.837327+00:00",
+    "review_date": "2024-02-13T10:41:47+00:00",
+    "last_modified_date": "2026-02-12T10:41:47.837327+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WlVrcEtjMWN0VW13MWIxcFVaWGN4UzNCTFEzYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Maëlys Glück",
+    "rating": 5.0,
+    "description": {
+      "en": "Amazing food at a very good price point! The service was also 👌🏼"
+    },
+    "created_date": "2026-02-12T10:41:47.269796+00:00",
+    "review_date": "2025-10-15T10:41:47+00:00",
+    "last_modified_date": "2026-02-12T10:41:47.269796+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6Nm9DYXlBRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "yninita",
+    "rating": 5.0,
+    "description": {
+      "en": "I knew Mr. Amitsu, the main chef, from his YouTube video. I knew his passion and deep understanding toward fresh ingredients and French cuisine techniqes. But eating experience was far beyond my expectation! I took seasonal vegetable plate for the main which was the best I ever had as a vegetarian plate.  Thank you very much for giving me this extraordinary experience."
+    },
+    "created_date": "2026-02-12T10:41:46.709701+00:00",
+    "review_date": "2025-02-12T10:41:46+00:00",
+    "last_modified_date": "2026-02-12T10:41:46.709701+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREbzVqU2lRRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Mark",
+    "rating": 5.0,
+    "description": {
+      "en": "Pate en croute is stunning and tastes absolutely delicious. Lamb and fish cooked to perfection with the perfect amount of acidity to balance everything out. Desserts are also beautiful and the chocolate in 4 textures is especially good. Wine list and service are both exceptional. I celebrated my girlfriend’s birthday and the dessert plate together with the artistic handwritten message on it are such a surprise! Couldn’t recommend it more and it’s our best dining experience in Paris so far (and we’ve had some 3-Michelin starred meals)."
+    },
+    "created_date": "2026-02-12T10:41:44.400316+00:00",
+    "review_date": "2025-02-12T10:41:44+00:00",
+    "last_modified_date": "2026-02-12T10:41:44.400316+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadHRHRGpRRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Eric Yakobson",
+    "rating": 5.0,
+    "description": {
+      "en": "One of the most thoroughly enjoyable dining experiences we had in Paris so far. Excellent service - unobtrusive, but always there when you need it. Fresh, light, innovative, but quintessentially French food with bold presentation. Reasonable pricing. A gem!"
+    },
+    "created_date": "2026-02-12T10:41:43.907595+00:00",
+    "review_date": "2024-02-13T10:41:43+00:00",
+    "last_modified_date": "2026-02-12T10:41:43.907595+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bklId0pBEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Margot",
+    "rating": 5.0,
+    "description": {
+      "en": "Amazing restaurant! The food is gorgeous, superbly presented, fresh, and original recipes are proposed depending on the season. The wine list is extensive and well curated, with only biological entries. The place is modern and clean - the upper floor is cozy and the ground floor has a nice view on the kitchen \"where it happens\". The staff is friendly and welcoming, it's a pleasure to receive their advice."
+    },
+    "created_date": "2026-02-12T10:41:43.360111+00:00",
+    "review_date": "2025-02-12T10:41:43+00:00",
+    "last_modified_date": "2026-02-12T10:41:43.360111+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURud3JxSVZBEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Wakako Yamane",
+    "rating": 5.0,
+    "description": {
+      "en": "my second visit after a year🍽️The vegetables are especially delicious. Every vegetable was perfectly cooked and seasoned, and it was a delicious plate from start to finish. If I were born as a vegetable, I would want to be cooked at this restaurant 😀 One of the reasons why my mother from Japan and I from US visit Paris☺️"
+    },
+    "created_date": "2026-02-12T10:41:42.820236+00:00",
+    "review_date": "2025-02-12T10:41:42+00:00",
+    "last_modified_date": "2026-02-12T10:41:42.820236+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbVZFTm9kbmxZYURGb1JUZHVablV5UnpWWk1IYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Lauren Delk",
+    "rating": 5.0,
+    "description": {
+      "en": "1000/10!!!!! Hôtel made this reso for us last minute for New Year’s Eve and ended up being our favorite meal of our whole trip. I feel like nobody knows about this place. Service was so good food was insanely good. You need to go here. I never leave reviews but had to for this place."
+    },
+    "created_date": "2026-02-12T10:41:42.333464+00:00",
+    "review_date": "2026-01-13T10:41:42+00:00",
+    "last_modified_date": "2026-02-12T10:41:42.333464+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNubU5XZ2xRRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Mike Irwin",
+    "rating": 5.0,
+    "description": {
+      "en": "There are thousands of good eateries in Paris, so picking one is a tough task. You can’t go wrong here. Off the main streets, unassuming but lovely. Fantastic presentations, great value for money. We were a group seated upstairs so maybe the service could have been a little speedier, but this a minor complaint about a place with a quintessential Parisian experience."
+    },
+    "created_date": "2026-02-12T10:41:41.867683+00:00",
+    "review_date": "2025-02-12T10:41:41+00:00",
+    "last_modified_date": "2026-02-12T10:41:41.867683+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWlltWmxlVkZwU25Bd2VqRjZSWFpLY0dKamFIYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Daisy H",
+    "rating": 5.0,
+    "description": {
+      "en": "Wonderful, wonderful! Very balanced flavors and creative recipes. The staff are friendly and very pleasant as well. Worth a trip!"
+    },
+    "created_date": "2026-02-12T10:41:41.409111+00:00",
+    "review_date": "2025-09-15T10:41:41+00:00",
+    "last_modified_date": "2026-02-12T10:41:41.409111+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTVRrZGllRkEyVVdGVFl6bEJVRXRUYlY4MFpsRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Victor Borges",
+    "rating": 5.0,
+    "description": {
+      "en": "There is no other way to put it, this was simply the best meal I have ever had!!! Life changing stuff really. If you are up for it get the foie gras and enjoy yourself for the next hour.\nI can’t stress this enough, perfect food"
+    },
+    "created_date": "2026-02-12T10:41:41.009342+00:00",
+    "review_date": "2026-01-29T10:41:40+00:00",
+    "last_modified_date": "2026-02-12T10:41:41.009342+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKb2JtUjFlazFUVFhKWE1VOWhjMUZPT0RSMVFWRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Tamara Rida",
+    "rating": 5.0,
+    "description": {
+      "en": "Beautiful and delicious plates. The place is on a quiet street, which was really nice.\nThe tables are a little bit too close together but that's pretty much the case for every restaurant in Paris. Also, the price for the homemade ice tea was a bit steep at €9, but the food itself was very reasonably priced."
+    },
+    "created_date": "2026-02-12T10:41:40.622023+00:00",
+    "review_date": "2025-07-17T10:41:40+00:00",
+    "last_modified_date": "2026-02-12T10:41:40.622023+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIeWZDdTBBRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Ayaka Hayashi",
+    "rating": 5.0,
+    "description": {
+      "en": "Even though I did not have a reservation, I was greeted with a friendly welcome. Everything from the appetizer to the main course to the dessert was wonderful. The atmosphere of the restaurant was very nice and everyone was relaxing and enjoying the meal. The service was very quick and efficient, and it was a pleasure to see the chefs at work. Wish to visit again for dinner.\nおすすめです！"
+    },
+    "created_date": "2026-02-12T10:41:40.177566+00:00",
+    "review_date": "2025-02-12T10:41:39+00:00",
+    "last_modified_date": "2026-02-12T10:41:40.177566+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcTlhb293RRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Long Nguyen",
+    "rating": 4.0,
+    "description": {
+      "en": "The mushroom with the perfect egg starter was superb. The duck fillet was perfectly cooked but lacked originality and the red peppers with it was odd and unnecessary. The pollock (fish) was overcooked. Plating was gorgeous, kitchen staff worked in harmony, wait staff was attentive and friendly. The atmosphere and service 5/5, food\nwas 4/5 but can definitely be 5/5 with some refinement. Definitely worth checking out regardless."
+    },
+    "created_date": "2026-02-12T10:37:02.853116+00:00",
+    "review_date": "2025-02-12T10:37:02+00:00",
+    "last_modified_date": "2026-02-12T10:37:02.853116+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VMQzRyNmk1dnBLcXVnRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Nikolay Grigorenko",
+    "rating": 5.0,
+    "description": {
+      "en": "We took two dishes for each, and all four of them proved to be absolutely delicious, well thought-out and beautifully presented. Service was quite welcoming and fast. Location is better than in most other places- the street is relatively quiet with not too much traffic, so it's nice to seat outside.\nThroughout our visit to Paris we had multiple poor restaurant experiences, and we have noticed that many mediocre restaurants have artificially pumped reviews. This one however, fully deserves the 4.8 rating it had at the moment of our visit. The only \"complaint\" that I would mention is that just like in many other places in Paris, drinks prices are unseasonably high."
+    },
+    "created_date": "2026-02-12T10:37:02.335584+00:00",
+    "review_date": "2025-07-17T10:37:02+00:00",
+    "last_modified_date": "2026-02-12T10:37:02.335584+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbWRrOU1lRVZJUlc5aFlpMHpZbVZpUWxWalMyYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Henrik reibom",
+    "rating": 5.0,
+    "description": {
+      "en": "Everything was fantastic! Service, quality of food. It was small and cozy so I would recommend you to book in advance."
+    },
+    "created_date": "2026-02-12T10:37:01.845059+00:00",
+    "review_date": "2025-12-14T10:37:01+00:00",
+    "last_modified_date": "2026-02-12T10:37:01.845059+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTFFXc3RXRlZxVVdOQ1kxQTVhVUoxVFVsYVkxRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Lamia Lauar",
+    "rating": 5.0,
+    "description": {
+      "en": "Beautiful restaurant that I stumbled upon as I was researching. French cuisine with a japanese twist. Great tasting food. The most wonderful and welcoming stuff. We loved it and will be back."
+    },
+    "created_date": "2026-02-12T10:37:01.442303+00:00",
+    "review_date": "2025-07-17T10:37:01+00:00",
+    "last_modified_date": "2026-02-12T10:37:01.442303+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNW9XdlZ3EAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Diego Serrano",
+    "rating": 5.0,
+    "description": {
+      "en": "We came to Baillote to have a nice French dinning experience.\n\nFor a starter, we tried the Langoustine Raviolis. The portion is quite small and pricy, 3 raviolis are 26€. However the flavor was amazing. The sauce was so delicious we almost licked the plates. I personally don’t mind the high prices when the food exceeds my expectations.\n\nAs our mains, we tried some classics. The duck and the fish.\n\nThe duck was the best duck we have eaten in Paris. It was tender, the skin was crispy. Really well cooked.\n\nThe fish was rich and fatty and the sauce was nice. It was good, not mind blowing. But exceeded my expectations given that most restaurants serve you quite bland boiled fish.\n\nFor dessert, we tried the Mango Variation and the Chai Tea Soufflé.\n\nThe Chai Tea soufflé was quite nice. It had a nice texture and flavor. The Cointreau ice cream that comes with it was very unique and had a nice floral flavor. We really enjoyed this dessert.\n\nThe mango variation was mind blowing. The crispiness of the cookie, the slightly chewy texture of the cheese and the contrast of the sour lemon sorbet and mango made it a unique experience. The flavors and textures balance in a delightful and refreshing way. I am happy to say this is the best dessert I have eaten in my life. It was so good we ordered another one.\n\nThe service was great and kind. We really enjoyed our time here 🕺🏻"
+    },
+    "created_date": "2026-02-12T10:37:01.024850+00:00",
+    "review_date": "2025-04-18T10:37:00+00:00",
+    "last_modified_date": "2026-02-12T10:37:01.024850+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VLQ0NsWUxhOWN6aUpBEAE",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "mimi",
+    "rating": 5.0,
+    "description": {
+      "en": "Lunch at Baillotte was an unforgettable experience—refined, soulful, and beautifully executed. The dishes are crafted by Japanese master chefs using classical French techniques and only the finest ingredients. The langoustine ravioli starter was delicate and perfectly balanced, the lamb was tender and full of flavor, and the fish of the day was flawlessly cooked. The rich chocolate dessert was a standout finale, deeply satisfying without being overwhelming. All of it paired with impeccable service and a warm, elegant interior that made the entire experience feel special. It’s not just a meal—it’s a masterclass in culinary harmony. I’ll definitely go again."
+    },
+    "created_date": "2026-02-12T10:37:00.558277+00:00",
+    "review_date": "2025-05-18T10:37:00+00:00",
+    "last_modified_date": "2026-02-12T10:37:00.558277+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GalEwSTRUMUpWYjJveFVqaEphRXhQTlRabVVWRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Helen Y",
+    "rating": 5.0,
+    "description": {
+      "en": "A wonderful restaurant for our last lunch in Paris.  Exceptional dishes using the freshest produce and cooked to perfection.  The service deserves its 5 stars.  The strawberry tart was mouthwatering delicious 💕"
+    },
+    "created_date": "2026-02-12T10:37:00.157848+00:00",
+    "review_date": "2025-07-17T10:36:59+00:00",
+    "last_modified_date": "2026-02-12T10:37:00.157848+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMFdGZENSREkwY2pNdGVuUlZVRTlpZDJaS2RIYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Estella Ho",
+    "rating": 5.0,
+    "description": {
+      "en": "Stunning food, both taste and presentation-wise. Had the cold corn cream, the summer vegetables with potato gnocchi, and the poached peach with sorbet. I was so satisfied with and inspired by the meal!"
+    },
+    "created_date": "2026-02-12T10:36:59.683590+00:00",
+    "review_date": "2025-09-15T10:36:59+00:00",
+    "last_modified_date": "2026-02-12T10:36:59.683590+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTVdUZGFkMVpIVTFkUFltMTBVMHhTVVRSTWJFRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "David O'Connor (The Hotel Guy)",
+    "rating": 4.0,
+    "description": {
+      "en": "Treated myself to dinner at @baillotte_restaurant in Paris…\n\nEntrée - Tataki de Thon Rouge\nFresh and fragrant aroma. It smelt as it tasted. Zingy, refreshing, cleaning. The texture of the fish just melted in the mouth, and the sauce was too good to not mop it up with my bread.\n\nPlays - Pêche du Jour\nSmelt like being at the seaside. A more complicated and conflicting dish. Flavours and textures that alone would be okay, were a little confusing together. I didn’t dislike it, but I didn’t love it. Especially not as much as the entrée. Compared to that and the dessert, the main course was a punk rock band. Maybe the was the point?\n\nDessert - Tomate D’Été\nThis was back to the form of the starter. Aroma, flavour, texture was all in harmony. I have NEVER heard of tomatoes being used in a dessert, not this was perfect and the tomatoes really worked. The most cleaning dish I have ever had. And left a slight tingle on the tongue as it cleared away interfering flavours from the past!\n\nA little detour on the main course, but a solid 4/5 from me!"
+    },
+    "created_date": "2026-02-12T10:36:59.191300+00:00",
+    "review_date": "2025-09-15T10:36:58+00:00",
+    "last_modified_date": "2026-02-12T10:36:59.191300+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FNE5GUlRUblpGV2pCd1pXZFNWMDAzTjNGSmVWRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Burger Burger",
+    "rating": 5.0,
+    "description": {
+      "en": "Really enjoyed the dinner. Lovely place. Small but cosy. Alittle squeezed but nice. Great food!"
+    },
+    "created_date": "2026-02-12T10:36:58.657333+00:00",
+    "review_date": "2026-01-13T10:36:58+00:00",
+    "last_modified_date": "2026-02-12T10:36:58.657333+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJZVc5X21WeU1YeDBBRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Gordon Fu",
+    "rating": 4.0,
+    "description": {
+      "en": "First visit - apr 2025: Fine dinning that I really enjoyed in Paris. Recommended by my pastry chef from ferrandi, everything was great, loved the plated dessert-best I’ve had so far in Paris.\n\nSecond visit - Aug 2025: lunch was severely worse, slow and not as good service, food was unevenly seasoned, dessert was also mid."
+    },
+    "created_date": "2026-02-12T10:36:56.934223+00:00",
+    "review_date": "2025-09-15T10:36:56+00:00",
+    "last_modified_date": "2026-02-12T10:36:56.934223+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRlVUTkRjeTExZUMxWmRqZDJORU5UVVdkdE9WRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Jasmine G",
+    "rating": 5.0,
+    "description": {
+      "en": "Food was INCREDIBLE. The chef is amazing at creating creative and layered dishes! The vegetarian and duck mains were great, and the poached pear dessert was to die for!\n\nextra points for beautiful plating"
+    },
+    "created_date": "2026-02-12T10:36:56.335628+00:00",
+    "review_date": "2025-09-15T10:36:56+00:00",
+    "last_modified_date": "2026-02-12T10:36:56.335628+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5S1pWaG5WMFo2YjNWWFlWSktlamhQUTJ0elZFRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Matt Timmons",
+    "rating": 4.0,
+    "description": {
+      "en": "We are retired age couple traveling with friends.   Booked dinner at Baillotte based on reviews and location.   We were greeted nicely and promptly for our 7 pm reservation however host “pointed” at our table vs taking us to same so we headed to wrong table ..   Small detail but….    Ambiance and decor of restaurant is very well done and has been curated by someone who has a nice talent for same.   As we looked to order my wife, who is a light eater wanted to order only an entree but was curtly informed it was mandatory to order a “plat” (main course).   I understand it’s a smaller restaurant needing to generate revenue but have never experienced being told that one must order a certain course “or else”.   In any case we went with the flow..I ordered scallops in a white sauce entree and veal plat (main).   Then between us 2 orders of a vegetarian main and 2 orders of veal.  My scallop entree was beautifully presented and the scallops were cooked to perfection.  The white sauce had a perfect texture but I found it to be lacking in “complexity” of taste - but overall good.  My veal main was good but felt the veal was not as tender and flavorful as I was hoping but overall pleasant.   Three ala carte glasses of wine were good but felt the size of the pour was in the light side (maybe 1/6 of a glass???).  Prices fair but not inexpensive.  Having been somewhat put off by being told it was mandatory to order a plat (main) we decided to opt out of desert course and went for ice cream elsewhere.\nOwnership of “Baillotte” are clearly working hard to present a wonderful atmosphere and haute cuisine but missed the mark for us…but perhaps that was “us and not them”.   The other reviews here certainly suggest that the large majority of patrons have a very positive experience!"
+    },
+    "created_date": "2026-02-12T10:36:55.814950+00:00",
+    "review_date": "2025-10-15T10:36:55+00:00",
+    "last_modified_date": "2026-02-12T10:36:55.814950+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkeFFsTk5jM0pXU2pkT1NqaGpZM05WTXpkNVVtYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Danoer",
+    "rating": 5.0,
+    "description": {
+      "en": "What a way to start off the trip. All of the dishes were meticulously balanced and vibrant on the palate. One of the best dining experiences of my life!"
+    },
+    "created_date": "2026-02-12T10:36:55.305439+00:00",
+    "review_date": "2025-10-15T10:36:55+00:00",
+    "last_modified_date": "2026-02-12T10:36:55.305439+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSk0yOXpNMmt6U0hGUlNEVXlZakowU2t4a1UyYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Amy “FabulousFoodie”",
+    "rating": 5.0,
+    "description": {
+      "en": "My recent trip to Paris was filled with memorable moments, but the absolute highlight was undoubtedly a meal at Baillotte! From the moment the first dish arrived, it was clear this wasn't just a meal; it was an artistic expression.\n\nThe food was nothing short of exquisite. Each bite offered a symphony of unique flavors that beautifully danced on the tongue, a testament to the chef's mastery. Beyond the taste, the presentation was a visual feast for the eyes. Every plate was meticulously crafted, making the act of dining an aesthetic pleasure.\n\nWhat truly elevated this experience was the chef's unwavering commitment to fresh, seasonal ingredients. The quality shone through in every single bite, proving that simple, high-quality components can create the most extraordinary dishes.\n\nI cannot recommend this restaurant highly enough for either lunch or dinner. Come prepared to be absolutely delighted – it will undoubtedly be a highlight of your Parisian culinary adventures."
+    },
+    "created_date": "2026-02-12T10:36:54.718761+00:00",
+    "review_date": "2025-07-17T10:36:54+00:00",
+    "last_modified_date": "2026-02-12T10:36:54.718761+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WVRXcE9abUZ3YlRWa2IxcHliVE5yU0d0R1JWRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Yael Shenhav",
+    "rating": 5.0,
+    "description": {
+      "en": "Lovely restaurant in the Saint-Germain quarter!\nThe service is warm and professional, and each dish shows great attention to detail. The flavors are refined and well-balanced — my starter, a smoked trout carpaccio with goat cheese, was absolutely perfect. The main course, monkfish (catch of the day), was also nicely cooked. Highly recommend!"
+    },
+    "created_date": "2026-02-12T10:36:54.196960+00:00",
+    "review_date": "2025-10-15T10:36:53+00:00",
+    "last_modified_date": "2026-02-12T10:36:54.196960+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b1VWQmpXbkl6T0VNd1pVNVBVbTlSVjA1b2VuYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Turoczy Zoltan",
+    "rating": 5.0,
+    "description": {
+      "en": "Japanese chef, french-japanese fusion cuisine, the best of both worlds. If you go for the lunch formule, the scallops with black truffles are worth the extra 6 euro. Everything was good, sauces were rich and silky, the desert was truly spectacular, the main dish that I chose (partridge or guinea fowl) felt too heavy and not properly balanced, but that's just me.  Technically it was perfect, with crispy charred skin and juicy, slightly undercooked (but cooked) meat. Not that many wines by the glass, and relatively pricey, but I guess it is normal for this range."
+    },
+    "created_date": "2026-02-12T10:36:53.625719+00:00",
+    "review_date": "2025-12-14T10:36:53+00:00",
+    "last_modified_date": "2026-02-12T10:36:53.625719+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sU1dWSlRWMTluVkZaUk1uTmtTakJFVjJsSlNrRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Christoph Huber",
+    "rating": 5.0,
+    "description": {
+      "en": "We had the just most tremendous lunch. I am very challenging when it comes to great flavour and quality. But here you get real Michelin star deserving eating experience for the senses. From presentation to flavour to colours and textures it is a real secret gem  hidden away in the route du Dragon."
+    },
+    "created_date": "2026-02-12T10:36:53.034694+00:00",
+    "review_date": "2025-12-14T10:36:52+00:00",
+    "last_modified_date": "2026-02-12T10:36:53.034694+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcVNtcGhiRlZqYjBKUGVqQnpWMWgwYldSemRYYxAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "K",
+    "rating": 5.0,
+    "description": {
+      "en": "Exceptional food and impeccable service. This is one of the finest restaurants in Paris cooked by of the most talented and exciting chefs. The balance of flavour and refined inventiveness brings authenticity and freshness to every dish. Highly recommended."
+    },
+    "created_date": "2026-02-12T10:36:52.515405+00:00",
+    "review_date": "2026-01-13T10:36:52+00:00",
+    "last_modified_date": "2026-02-12T10:36:52.515405+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CR1UyVTJiMEZKY0dKM2JqZElSR3hQYm01Q2JFRRAB",
+    "place_id": "hash:cf239f38afddee91",
+    "author": "Aji",
+    "rating": 5.0,
+    "description": {
+      "en": "This was our favorite restaurant in our Paris trip. We had the opportunity to enjoy a pre-New Year's course meal. Every dish was delicious, using high-quality ingredients and meticulously prepared. The timing between each course was perfect, and the service was excellent. The wine was good and served at the perfect temperature. We were very happy. Thank you for the great food."
+    },
+    "created_date": "2026-02-12T10:36:51.903514+00:00",
+    "review_date": "2026-01-13T10:36:51+00:00",
+    "last_modified_date": "2026-02-12T10:36:51.903514+00:00",
+    "company": "Thaitours",
+    "source": "Google Maps"
+  }
+]
