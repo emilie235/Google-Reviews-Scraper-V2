@@ -1,0 +1,24 @@
+backup_to_json: true
+convert_dates: true
+restaurant: Halle aux Grains
+custom_url_base: https://mycustomurl.com
+custom_url_profiles: /profiles/
+custom_url_reviews: /reviews/
+download_images: false
+download_threads: 4
+headless: false
+image_dir: review_images
+json_path: /home/onyxia/Google-Reviews-Scraper-V2/data/halle_aux_grains/halle_aux_grains.json
+seen_ids_path: /home/onyxia/Google-Reviews-Scraper-V2/data/halle_aux_grains/halle_aux_grains.ids
+mongodb:
+  collection: google_reviews
+  database: reviews
+  uri: mongodb://localhost:27017
+overwrite_existing: false
+preserve_original_urls: true
+replace_urls: false
+sort_by: relevance
+stop_on_match: false
+store_local_paths: true
+url: https://www.google.com/maps/place/?q=place_id:ChIJWU_367Fv5kcRvjy7VAbM9G4
+use_mongodb: false

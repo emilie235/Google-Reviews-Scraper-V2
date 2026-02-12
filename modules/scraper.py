@@ -1295,6 +1295,10 @@ class GoogleReviewsScraper:
             else:
                 seen = self.review_db.get_review_ids(place_id)
 
+            driver.refresh()
+            print("refresh page")
+            time.sleep(2)
+
             self.dismiss_cookies(driver)
             self.click_reviews_tab(driver)
 
@@ -1620,6 +1624,34 @@ class GoogleReviewsScraper:
             return False
 
         finally:
+
+            # Attempt to save partial results on interruption or error so
+            # user doesn't lose already scraped reviews.
+            try:
+                if 'docs' in locals() and docs:
+                    # Save to MongoDB if enabled
+                    if self.use_mongodb and self.mongodb:
+                        try:
+                            log.info("Saving partial reviews to MongoDB (on interrupt/error)...")
+                            self.mongodb.save_reviews(docs)
+                        except Exception as e:
+                            log.warning(f"Failed to save partial reviews to MongoDB: {e}")
+
+                    # Backup to JSON if enabled
+                    if self.backup_to_json and hasattr(self, 'json_storage') and self.json_storage:
+                        try:
+                            log.info("Backing up partial reviews to JSON (on interrupt/error)...")
+                            self.json_storage.save_json_docs(docs)
+                            if 'seen' in locals():
+                                try:
+                                    self.json_storage.save_seen(seen)
+                                except Exception as e:
+                                    log.warning(f"Failed to save seen IDs to JSON: {e}")
+                        except Exception as e:
+                            log.warning(f"Failed to backup partial reviews to JSON: {e}")
+            except Exception as e:
+                log.debug(f"Error while attempting partial save: {e}")
+
             if driver is not None:
                 try:
                     driver.quit()

@@ -18,7 +18,7 @@ DATA_DIR.mkdir(exist_ok=True)
 
 # Loading dataframe
 
-df = pd.read_csv("C:/Users/leemi/OneDrive/Documents/ENSAE/RA/Google reviews scraping/paris_restaurants_google_reviews.csv", sep=",", encoding="utf-8")
+df = pd.read_csv("paris_restaurants_google_reviews.csv", sep=",", encoding="utf-8")
 print(df.head())
 
 # Normalizing restaurant's names to create slugs
@@ -55,8 +55,7 @@ for _, row in df.iterrows():
 
     config["restaurant"] = restaurant
     config["url"] = (
-        f"https://www.google.com/maps/place/?q=place_id:{id}"
-    )
+    f"https://www.google.com/maps/place/?q=place_id:{id}&hl=en&gl=US")
     config["json_path"] = str(resto_dir / f"{slug}.json")
     config["seen_ids_path"] = str(resto_dir / f"{slug}.ids")
 
@@ -68,7 +67,7 @@ for _, row in df.iterrows():
     # Running the scraper with the generated config file
 
     try:
-        python_exe = BASE_DIR / "venv" / "Scripts" / "python.exe"
+        python_exe = BASE_DIR / "venv" / "bin" / "python"
         result = subprocess.run(
             [str(python_exe), str(BASE_DIR / "start.py"), "--config", str(yaml_path)],
             text=True,
